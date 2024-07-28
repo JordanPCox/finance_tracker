@@ -1,3 +1,100 @@
 date,amount,category,description
-20-07-2024,125.65,Income,Salary
-28-07-2024,25.0,Expense,Dinner
+03-08-2023,226.44,Food,Grocery shopping
+04-08-2023,183.48,Transportation,Gas
+06-08-2023,422.16,Entertainment,Movie tickets
+21-08-2023,78.59,Rent,Monthly rent payment
+24-08-2023,289.11,Miscellaneous,Gift
+25-08-2023,14.58,Entertainment,Subscription
+27-08-2023,81.76,Utilities,Internet bill
+27-08-2023,240.36,Miscellaneous,Clothing
+28-08-2023,28.4,Entertainment,Concert
+29-08-2023,422.28,Transportation,Taxi fare
+07-09-2023,273.14,Transportation,Gas
+08-09-2023,37.3,Food,Lunch with friends
+10-09-2023,440.44,Food,Dinner at restaurant
+17-09-2023,433.9,Miscellaneous,Donation
+26-09-2023,491.46,Transportation,Taxi fare
+09-10-2023,441.43,Miscellaneous,Gift
+10-10-2023,55.26,Rent,Monthly rent payment
+11-10-2023,298.35,Rent,Monthly rent payment
+13-10-2023,323.07,Miscellaneous,Donation
+16-10-2023,380.49,Rent,Monthly rent payment
+22-10-2023,433.82,Miscellaneous,Gift
+24-10-2023,245.64,Entertainment,Concert
+28-10-2023,242.69,Rent,Monthly rent payment
+03-11-2023,26.48,Rent,Monthly rent payment
+05-11-2023,204.93,Rent,Monthly rent payment
+05-11-2023,446.86,Utilities,Internet bill
+08-11-2023,229.48,Entertainment,Concert
+13-11-2023,377.09,Utilities,Electric bill
+14-11-2023,384.81,Utilities,Water bill
+19-11-2023,231.07,Rent,Monthly rent payment
+26-11-2023,211.79,Miscellaneous,Clothing
+26-11-2023,313.22,Rent,Monthly rent payment
+27-11-2023,90.82,Transportation,Taxi fare
+27-11-2023,222.31,Utilities,Electric bill
+28-11-2023,347.44,Utilities,Electric bill
+13-12-2023,391.73,Food,Grocery shopping
+29-12-2023,186.13,Food,Dinner at restaurant
+02-01-2024,211.58,Utilities,Water bill
+06-01-2024,137.57,Food,Dinner at restaurant
+07-01-2024,385.84,Miscellaneous,Gift
+12-01-2024,191.21,Entertainment,Concert
+12-01-2024,18.15,Rent,Monthly rent payment
+14-01-2024,19.79,Miscellaneous,Clothing
+16-01-2024,259.39,Rent,Monthly rent payment
+17-01-2024,259.72,Utilities,Electric bill
+24-01-2024,343.23,Miscellaneous,Clothing
+26-01-2024,163.48,Miscellaneous,Donation
+29-01-2024,424.65,Food,Grocery shopping
+31-01-2024,70.83,Food,Dinner at restaurant
+04-02-2024,305.16,Entertainment,Concert
+07-02-2024,339.56,Utilities,Water bill
+12-02-2024,314.64,Entertainment,Subscription
+13-02-2024,422.75,Food,Dinner at restaurant
+15-02-2024,132.4,Entertainment,Subscription
+15-02-2024,34.79,Transportation,Bus ticket
+27-02-2024,340.97,Utilities,Electric bill
+01-03-2024,91.76,Entertainment,Movie tickets
+02-03-2024,204.09,Miscellaneous,Clothing
+02-03-2024,449.06,Transportation,Bus ticket
+06-03-2024,259.07,Food,Grocery shopping
+18-03-2024,239.93,Food,Grocery shopping
+21-03-2024,333.24,Utilities,Water bill
+21-03-2024,271.27,Transportation,Gas
+22-03-2024,230.11,Miscellaneous,Donation
+22-03-2024,182.63,Food,Grocery shopping
+28-03-2024,57.66,Utilities,Electric bill
+30-03-2024,280.39,Entertainment,Movie tickets
+01-04-2024,440.31,Utilities,Internet bill
+03-04-2024,280.88,Entertainment,Subscription
+13-04-2024,360.88,Miscellaneous,Clothing
+19-04-2024,354.83,Rent,Monthly rent payment
+19-04-2024,118.42,Food,Grocery shopping
+23-04-2024,189.09,Transportation,Bus ticket
+24-04-2024,123.06,Food,Dinner at restaurant
+27-04-2024,167.29,Utilities,Internet bill
+30-04-2024,286.94,Food,Grocery shopping
+30-04-2024,146.08,Food,Grocery shopping
+01-05-2024,459.94,Miscellaneous,Donation
+01-05-2024,461.37,Food,Lunch with friends
+04-05-2024,492.18,Transportation,Taxi fare
+06-05-2024,484.79,Rent,Monthly rent payment
+16-05-2024,139.72,Food,Dinner at restaurant
+18-05-2024,116.24,Food,Grocery shopping
+19-05-2024,192.91,Food,Dinner at restaurant
+31-05-2024,60.4,Entertainment,Movie tickets
+04-06-2024,122.96,Entertainment,Concert
+04-06-2024,79.22,Food,Dinner at restaurant
+09-06-2024,26.28,Food,Lunch with friends
+10-06-2024,486.25,Transportation,Gas
+10-06-2024,58.79,Entertainment,Subscription
+15-06-2024,151.12,Rent,Monthly rent payment
+18-06-2024,459.19,Rent,Monthly rent payment
+19-06-2024,203.49,Entertainment,Concert
+25-06-2024,489.5,Transportation,Gas
+26-06-2024,66.94,Transportation,Taxi fare
+26-06-2024,197.9,Rent,Monthly rent payment
+29-06-2024,483.05,Entertainment,Subscription
+02-07-2024,327.12,Transportation,Bus ticket
+18-07-2024,490.0,Transportation,Bus ticket
